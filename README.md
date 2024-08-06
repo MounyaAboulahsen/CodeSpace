@@ -1,5 +1,6 @@
 # Report : 
-- [View the document](./rapport_pfe (2).pdf)
+The complete and detailed report for this project is available as a PDF file in this repository.
+- [project report](./report.pdf)
 
 # laravel project 
 # PFE
